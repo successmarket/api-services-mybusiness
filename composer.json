@@ -1,5 +1,19 @@
 {
     "name": "successmarket/api-services-mybusiness",
     "description": "PHP library for Google My Business API v4",
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "authors": [{
+        "name": "Google"
+    }],
+    "support": {
+        "docs": "https://developers.google.com/my-business/content/support"
+    },
+    "require": {
+        "google/apiclient": "^2.4"
+    },
+    "autoload": {
+        "files": [
+            "MyBusiness.php"
+        ]
+    }
 }
