@@ -1,4 +1,5 @@
 {
     "name": "successmarket/api-services-mybusiness",
-    "description": "PHP library for Google My Business API v4"
+    "description": "PHP library for Google My Business API v4",
+    "license": "Apache-2.0"
 }
